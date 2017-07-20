@@ -1,0 +1,19 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Realm (2.7.0):
+    - Realm/Headers (= 2.7.0)
+  - Realm/Headers (2.7.0)
+
+DEPENDENCIES:
+  - FMDB
+  - Realm
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Realm: 07e5d3a9e0e41d65fd5f9f05150ed6295d0f093b
+
+PODFILE CHECKSUM: 279477f21792a18f25381b68b64570173e55b5ef
+
+COCOAPODS: 1.2.0.rc.1
